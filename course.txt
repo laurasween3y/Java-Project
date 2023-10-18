@@ -1,0 +1,3 @@
+courseName,numberPT,numberFT,percentageMale,percentageFemale
+Software Engineering,1,0,1,0,100
+Laura Sweeney,28/04/04,Female,FT,3,1
